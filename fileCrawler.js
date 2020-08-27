@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 
 //Set your filepah here (must end with a closing foward slash "/"...... ex. C:/Users/randuser/Desktop/ )
-const filePath = 'C:/Users/conne/OneDrive/Desktop/Everything/'
+const filePath = '<YOUR_FILEPATH_HERE>'
 
 
 
